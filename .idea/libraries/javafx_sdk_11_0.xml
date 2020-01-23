@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="javafx-sdk-11.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../ProjetJava/javafx-sdk-11.0.2" />
+      <root url="jar://$PROJECT_DIR$/../ProjetJava/jfoenix-9.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
